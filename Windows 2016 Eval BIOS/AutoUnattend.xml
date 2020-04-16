@@ -1,7 +1,3 @@
-<!-- This is an AutoUnattend.xml file for a Windows Server 2016 Standard Server Image
-This is designed for the Microsoft Evaluation ISO for 2016
-BIOS Disk layout -->
-
 <?xml version="1.0" encoding="utf-8"?>
 <unattend xmlns="urn:schemas-microsoft-com:unattend">
     <settings pass="windowsPE">
@@ -136,3 +132,7 @@ BIOS Disk layout -->
     </settings>
     <cpi:offlineImage cpi:source="catalog:c:/adk/windows_server_2016/sources/install_windows server 2016 serverstandard.clg" xmlns:cpi="urn:schemas-microsoft-com:cpi" />
 </unattend>
+
+<!-- This is an AutoUnattend.xml file for a Windows Server 2016 Standard Server Image
+This is designed for the Microsoft Evaluation ISO for 2016
+BIOS Disk layout -->
