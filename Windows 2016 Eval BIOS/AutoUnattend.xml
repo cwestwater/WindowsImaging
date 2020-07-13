@@ -36,7 +36,6 @@
                         </ModifyPartition>
                         <ModifyPartition wcm:action="add">
                             <Format>NTFS</Format>
-                            <Label></Label>
                             <Order>2</Order>
                             <PartitionID>2</PartitionID>
                         </ModifyPartition>
